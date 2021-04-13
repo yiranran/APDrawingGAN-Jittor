@@ -1,7 +1,7 @@
 import jittor as jt
 import numpy as np
 
-EYE_H = 48
+EYE_H = 40
 EYE_W = 56
 NOSE_H = 48
 NOSE_W = 48
